@@ -12,31 +12,31 @@
 
 ## ⚡ Tech Ecosystem
 
-| Category | Technologies |
+| Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` • `JavaScript` • `Dart` • `C` • `Java` |
-| **Frameworks & AI** | `PyTorch` • `Flutter` • `Streamlit` • `Ollama` • `Claude API` |
-| **Tools & Design** | `Git` • `GitHub` • `Figma` • `Canva` |
+| 💻 **Languages** | `Python` • `JavaScript` • `Dart` • `C` • `Java` |
+| 🤖 **AI & Frameworks** | `PyTorch` • `Ollama` • `Claude API` • `LLM Orchestration` • `Streamlit` |
+| 🛠️ **Tools & Design** | `Git` • `GitHub` • `Flutter` • `Figma` • `Canva` |
 
 ---
 
-## 🎯 Core Research Areas
+## 🎯 Core Focus & Research
 
-* 🧠 **Agentic AI:** Building self-correction loops and orchestration pipelines.
-* 🏥 **Healthcare Deep Learning:** Analyzing complex time-series data for early critical care warnings.
-* 🔍 **Media Authenticity:** Developing multi-modal deepfake detection frameworks.
-* 🛡️ **Platform Integrity:** Engineering custom behavioral NLP models for trust and security.
+* 🧠 **Agentic Systems** — Designing self-correction reasoning loops and sandboxed execution layers.
+* 🏥 **Medical Deep Learning** — Structuring early ICU warning pipelines using time-series clinical data.
+* 🔍 **Media Authenticity** — Surveying and modeling state-of-the-art deepfake feature extraction.
+* 🛡️ **Platform Integrity** — Feature engineering behavioral metadata for machine learning classifiers.
 
 ---
 
-## 🌐 Education & Background
+## 🌐 Education & Profile
 
-* 🎓 **B.Tech in Computer Science** with an **MBA Minor** — KIET Group of Institutions
+* 🎓 **B.Tech in Computer Science** (with an MBA Minor) — KIET Group of Institutions
 * 🇫🇷 **French Language** — Elementary Proficiency
 
 ---
 
-## 📈 Matrix
+## 📈 Visual Matrix
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
