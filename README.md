@@ -29,15 +29,6 @@
 
 ---
 
-## 🌐 Education & Profile
-
-* 🎓 **B.Tech in Computer Science** (with an MBA Minor) — KIET Group of Institutions
-* 🇫🇷 **French Language** — Elementary Proficiency
-
----
-
-## 📈 Visual Matrix
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Academic-B.Tech_CS_+_MBA_Minor-blue?style=flat-square" />
