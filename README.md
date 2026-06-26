@@ -12,7 +12,6 @@
 
 ## ⚡ Tech Ecosystem
 
-```⚡
 ● Languages       »  Python • JavaScript • Dart • C • Java
 ● Frameworks      »  PyTorch • Flutter • Streamlit
 ● Generative AI   »  Ollama • Claude API • LLM Orchestration
