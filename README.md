@@ -19,8 +19,8 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 **B.Tech in Computer Science** with an **MBA Minor** at KIET Group of Institutions.
-- 🚀 **SIH 2025 National Finalist** & **Code Seva Hackathon Best Freshers Winner**.
-- 🔭 Currently researching state-of-the-art **Deepfake Detection architectures** and independent media authenticity systems.
+- 🚀 **SIH National Finalist** & **Code Seva Hackathon Best Freshers Winner**.
+- 🔭 Currently researching state-of-the-art **Deepfake Detection architectures** and media authenticity.
 - 🌱 Deeply immersed in **Generative AI Agentic Infrastructure**, **Deep Learning (PyTorch)**, and advanced **NLP**.
 - 💡 Passionate about applying AI to complex spatial reasoning, critical care healthcare, and social media integrity.
 - 📍 Based in India.
@@ -52,39 +52,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 🧠 [KinesorAGI - ARC Self-Correction Agent](https://github.com/aashichaudharyyy)
-> An offline agentic research infrastructure implementing a dynamic self-correction loop on Chollet's ARC-AGI benchmark.
-- Built a sandboxed Python execution layer tracking coordinate-wise Jaccard scoring.
-- Used **Ollama** to intercept runtime errors and pipe stack traces iteratively back into the LLM.
-- **Key Insight:** Identified a *"95% Saturation Paradox"* where token inflation (~400-500%) yields diminishing returns for complex spatial reasoning.
-- **Stack:** Python, Claude API, Ollama, Streamlit, Generative AI.
-
-### 🏥 [Sepsis Prediction - LSTM & ML](https://github.com/aashichaudharyyy)
-> End-to-end early-warning system for ICU time-series data with an **AUROC of ~0.93**.
-- Applied rigorous medical feature engineering (Shock Index, rolling averages) and handled severe class imbalance.
-- **Research Impact:** Research paper currently under review at the **ICICCC** conference.
-- **Stack:** Python, PyTorch, Deep Learning, Time-Series Analysis.
-
-### 🔍 [Deepfake Detection System](https://github.com/aashichaudharyyy) *(Ongoing)*
-> Independent research creating a robust media authenticity ecosystem.
-- Conducting a systematic literature review surveying state-of-the-art detection architectures to target gaps in current methodologies.
-- Designing a feature extraction model optimized for identifying multi-modal image and video manipulations.
-- **Stack:** Computer Vision, Deep Learning, Python.
-
-### 🤖 [Twitter Bot Classification](https://github.com/aashichaudharyyy)
-> Machine learning bot detection classifier designed for platform integrity and trust metrics.
-- Trained an **SVM with an RBF kernel** to achieve **88% accuracy** with strong precision baseline markers.
-- Engineered custom metadata features including behavioral engagement ratios and user growth rates.
-- **Stack:** Python, SVM, NLP, Scikit-Learn.
+* 🧠 **KinesorAGI** — ARC Self-Correction Agent `[Python, Claude API, Ollama, Streamlit, GenAI]`
+* 🏥 **Sepsis Prediction** — LSTM & Machine Learning (ICICCC Paper Under Review) `[Python, PyTorch, Deep Learning]`
+* 🔍 **Deepfake Detection** — Computer Vision & Deep Learning (Ongoing Research) `[Python, PyTorch, CV]`
+* 🤖 **Twitter Bot Classification** — SVM & NLP Platform Integrity Model `[Python, Scikit-Learn, NLP]`
 
 ---
 
 ## 🏆 Key Achievements
 
-- 🥇 **Smart India Hackathon (SIH) National Finalist:** Selected as the Team Leader for a 6-member team to build *Eklavyaa*, a gamified education platform. 
-- 💎 **Code Seva Hackathon Winner:** Won the *Best Freshers Award & Cash Prize* by building *Rekord* (an athlete-focused social media platform) competing directly against senior student teams.
+- 🥇 **Smart India Hackathon (SIH) National Finalist:** Led a 6-member team to build *Eklavyaa*, a gamified education platform.
+- 💎 **Code Seva Hackathon Winner:** Won the *Best Freshers Award & Cash Prize* by building *Rekord* against competitive senior teams.
 
 ---
 
@@ -98,7 +78,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ARC--AGI%20Agent-Self--Correction-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Sepsis%20Prediction-0.93%20AUROC-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/SIH%202025-National%20Finalist-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIH-National%20Finalist-blue?style=flat-square" />
 </p>
 
 ---
@@ -111,8 +91,4 @@ I'm always eager to collaborate on cutting-edge AI agent architecture, Deep Lear
   <a href="https://linkedin.com/in/aashi-chaudhary-282405218">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <em>✨ "The goal is to turn data into information, and information into insight." — Carly Fiorina ✨</em>
 </p>
