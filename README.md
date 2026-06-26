@@ -12,23 +12,34 @@
 
 ## ⚡ Tech Ecosystem
 
-● Languages       »  Python • JavaScript • Dart • C • Java
-● Frameworks      »  PyTorch • Flutter • Streamlit
-● Generative AI   »  Ollama • Claude API • LLM Orchestration
-● Tools & Design  »  Git • GitHub • Figma • Canva
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` • `JavaScript` • `Dart` • `C` • `Java` |
+| **Frameworks & AI** | `PyTorch` • `Flutter` • `Streamlit` • `Ollama` • `Claude API` |
+| **Tools & Design** | `Git` • `GitHub` • `Figma` • `Canva` |
 
-class Profile(Developer):
-    def __init__(self):
-        self.name = "Aashi Chaudhary"
-        self.role = "AI/ML Researcher"
-        
-    def current_interests(self):
-        return [
-            "Agentic Workflows & Self-Correction Loops",
-            "Time-Series Deep Learning in Healthcare",
-            "Multi-modal Deepfake & Media Authenticity Systems",
-            "Platform Integrity via Behavioral NLP Features"
-        ]
+---
 
-    def core_philosophy(self):
-        return "Turning complex spatial and sequential data into reliable, actionable insights."
+## 🎯 Core Research Areas
+
+* 🧠 **Agentic AI:** Building self-correction loops and orchestration pipelines.
+* 🏥 **Healthcare Deep Learning:** Analyzing complex time-series data for early critical care warnings.
+* 🔍 **Media Authenticity:** Developing multi-modal deepfake detection frameworks.
+* 🛡️ **Platform Integrity:** Engineering custom behavioral NLP models for trust and security.
+
+---
+
+## 🌐 Education & Background
+
+* 🎓 **B.Tech in Computer Science** with an **MBA Minor** — KIET Group of Institutions
+* 🇫🇷 **French Language** — Elementary Proficiency
+
+---
+
+## 📈 Matrix
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Academic-B.Tech_CS_+_MBA_Minor-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-French_(Elementary)-lightgrey?style=flat-square" />
+</p>
